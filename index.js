@@ -13,7 +13,7 @@ if (!API_KEY) {
 init(API_KEY);
 
 const userProperties = {
-    plan: "mev",
+    plan: "PREMIUM USER",
     email: "test@test.com"
 };
 
